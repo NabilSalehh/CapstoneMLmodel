@@ -1,0 +1,161 @@
+﻿Number,Player,Team,Tm,Rankings
+1,Aaron Judge,New York Yankees,NYY,99
+2,Mike Trout,Los Angeles Angels,LAA,99
+3,Jacob deGrom,Texas Rangers,TEX,99
+4,Shohei Ohtani,Los Angeles Dodgers,LAD,98
+5,Justin VerLADder,Houston Astros,HOU,98
+6,Mookie Betts,Los Angeles Dodgers,LAD,97
+7,Max Scherzer,Texas Rangers,TEX,96
+8,Paul Goldschmidt,St. Louis Cardinals,STL,96
+9,Corbin Burnes,Milwaukee Brewers,MIL,96
+10,Bryce Harper,Philadelphia Phillies,PHI,95
+11,Manny Machado,San Diego Padres,SD,95
+12,Yordan Alvarez,Houston Astros,HOU,94
+13,NoLAD Arenado,St. Louis Cardinals,STL,94
+14,Jose Ramirez,Cleveland Guardians,CLE,94
+15,Spencer Strider,Atlanta Braves,ATL,94
+16,Byron Buxton,Minnesota Twins,MIN,93
+17,Jose Altuve,Houston Astros,HOU,93
+18,Emmanuel Clase,Cleveland Guardians,CLE,93
+19,Carlos Rodon,New York Yankees,NYY,93
+20,Shane McCLADahan,Tampa Bay Rays,TB,93
+21,Austin Riley,Atlanta Braves,ATL,93
+22,Trea Turner,Philadelphia Phillies,PHI,92
+23,Ronald Acuna Jr.,Atlanta Braves,ATL,92
+24,Aaron Nola,Philadelphia Phillies,PHI,91
+25,Zack Wheeler,Philadelphia Phillies,PHI,90
+26,J.T. Realmuto,Philadelphia Phillies,PHI,90
+27,Evan Phillips,Los Angeles Dodgers,LAD,90
+28,Pete Alonso,New York Mets,NYM,90
+29,Sandy Alcantara,Miami Marlins,MIA,90
+30,Kyle Tucker,Houston Astros,HOU,90
+31,Max Fried,Atlanta Braves,ATL,90
+32,Carlos Correa,Minnesota Twins,MIN,89
+33,Julio Rodriguez,Seattle Mariners,SEA,89
+34,Francisco Lindor,New York Mets,NYM,89
+35,Shane Bieber,Cleveland Guardians,CLE,89
+36,Gerrit Cole,New York Yankees,NYY,89
+37,Michael Harris II,Atlanta Braves,ATL,89
+38,Zac Gallen,Arizona Diamondbacks,AZ,89
+39,DyLAD Cease,Chicago White Sox,CWS,89
+40,Luis Castillo,Seattle Mariners,SEA,88
+41,Alek Manoah,Toronto Blue Jays,TOR,88
+42,Freddie Freeman,Los Angeles Dodgers,LAD,88
+43,Vladimir Guerrero Jr.,Toronto Blue Jays,TOR,88
+44,George Springer,Toronto Blue Jays,TOR,88
+45,Jazz Chisholm Jr.,Miami Marlins,MIA,88
+46,A.J. Minter,Atlanta Braves,ATL,88
+47,Juan Soto,New York Yankees,NYY,88
+48,Dansby Swanson,Chicago Cubs,CHC,88
+49,Tony Gonsolin,Los Angeles Dodgers,LAD,87
+50,Kodai Senga,New York Mets,NYM,87
+51,Teoscar Hernandez,Los Angeles Dodgers,LAD,87
+52,Framber Valdez,Houston Astros,HOU,87
+53,Matt Olson,Atlanta Braves,ATL,87
+54,Hunter Renfroe,Kansas City Royals,KC,86
+55,Andres Munoz,Seattle Mariners,SEA,86
+56,Kevin Gausman,Toronto Blue Jays,TOR,86
+57,Alejandro Kirk,Toronto Blue Jays,TOR,86
+58,Ryan Helsley,St. Louis Cardinals,STL,86
+59,Chris Sale,Atlanta Braves,ATL,86
+60,Yu Darvish,San Diego Padres,SD,86
+61,Luis Severino,New York Mets,NYM,86
+62,Andres Gimenez,Cleveland Guardians,CLE,86
+63,Joe Musgrove,San Diego Padres,SD,86
+64,Freddy Peralta,Milwaukee Brewers,MIL,86
+65,Xander Bogaerts,San Diego Padres,SD,86
+66,Nathaniel Lowe,Texas Rangers,TEX,85
+67,Corey Seager,Texas Rangers,TEX,85
+68,Adolis Garcia,Texas Rangers,TEX,85
+69,Felix Bautista,Baltimore Orioles,BAL,85
+70,Cristian Javier,Houston Astros,HOU,85
+71,Ryan Pressly,Houston Astros,HOU,85
+72,Michael King,San Diego Padres,SD,85
+73,Josh Hader,Houston Astros,HOU,85
+74,Drew Rasmussen,Tampa Bay Rays,TB,85
+75,LADce McCullers Jr.,Houston Astros,HOU,84
+76,Adley Rutschman,Baltimore Orioles,BAL,84
+77,Bo Bichette,Toronto Blue Jays,TOR,84
+78,Alex Bregman,Houston Astros,HOU,84
+79,Bryan Reynolds,Pittsburgh Pirates,PIT,84
+80,Joey Meneses,Washington Nationals,WSH,84
+81,Tommy Edman,St. Louis Cardinals,STL,84
+82,Rafael Devers,Boston Red Sox,BOS,84
+83,Jason Adam,Tampa Bay Rays,TB,84
+84,Raisel Iglesias,Atlanta Braves,ATL,84
+85,Tyler Glasnow,Los Angeles Dodgers,LAD,84
+86,Willy Adames,Milwaukee Brewers,MIL,84
+87,Joe Ryan,Minnesota Twins,MIN,83
+88,Mitch Haniger,Seattle Mariners,SEA,83
+89,Christian Walker,Arizona Diamondbacks,AZ,83
+90,Danny Jansen,Toronto Blue Jays,TOR,83
+91,Jose Abreu,Houston Astros,HOU,83
+92,Jeremy Pena,Houston Astros,HOU,83
+93,Tanner Houck,Boston Red Sox,BOS,83
+94,Kenley Jansen,Boston Red Sox,BOS,83
+95,Nestor Cortes,New York Yankees,NYY,83
+96,Willson Contreras,St. Louis Cardinals,STL,83
+97,Clay Holmes,New York Yankees,NYY,83
+98,Salvador Perez,Kansas City Royals,KC,83
+99,Travis d’Arnaud,Atlanta Braves,ATL,83
+100,Tyler Anderson,Los Angeles Angels,LAA,83
+101,Fernando Abad,Colorado Rockies,COL,0.5
+102,Andrew Abbott,Cincinnati Reds,CIN,0.5
+103,Cory Abbott,Seattle Mariners,SEA,0.5
+104,CJ AATLms,Washington Nationals,WSH,0.5
+105,Albert Abreu,,,0.5
+106,Bryan Abreu,Houston Astros,HOU,0.5
+107,José Abreu,Houston Astros,HOU,0.5
+108,Wilyer Abreu,Boston Red Sox,BOS,0.5
+109,Domingo Acevedo,Oakland Athletics,OAK,0.5
+110,Garrett Acton,Tampa Bay Rays,TB,0.5
+111,Ronald Acuña Jr.,Atlanta Braves,ATL,0.5
+112,Austin Adams,New York Mets,NYM,0.5
+113,Jordyn Adams,Los Angeles Angels,LAA,0.5
+114,Riley Adams,Washington Nationals,WSH,0.5
+115,Ty Adcock,Seattle Mariners,SEA,0.5
+116,Jo Adell,Los Angeles Angels,LAA,0.5
+117,Joan Adon,Washington Nationals,WSH,0.5
+118,Ehire Adrianza,Los Angeles Angels,LAA,0.5
+119,Jesús Aguilar,,,0.5
+120,Nick Ahmed,San Francisco Giants,SF,0.5
+121,Keegan Akin,Baltimore Orioles,BAL,0.5
+122,Hanser Alberto,Chicago White Sox,CWS,0.5
+123,Ozzie Albies,Atlanta Braves,ATL,0.5
+124,Jorge Alcala,Minnesota Twins,MIN,0.5
+125,Scott Alexander,Oakland Athletics,OAK,0.5
+126,Tyler Alexander,Tampa Bay Rays,TB,0.5
+127,Jorge Alfaro,Chicago Cubs,CHC,0.5
+128,Kolby Allard,Philadelphia Phillies,PHI,0.5
+129,Greg Allen,New York Yankees,NYY,0.5
+130,Logan Allen,Cleveland Guardians,CLE,0.5
+131,Nick Allen,Oakland Athletics,OAK,0.5
+132,AATLham Almonte,New York Mets,NYM,0.5
+133,Yency Almonte,Chicago Cubs,CHC,0.5
+134,Jake Alu,Washington Nationals,WSH,0.5
+135,José Alvarado,Philadelphia Phillies,PHI,0.5
+136,Francisco Alvarez,New York Mets,NYM,0.5
+137,Adbert Alzolay,Chicago Cubs,CHC,0.5
+138,Jacob Amaya,Miami Marlins,MIA,0.5
+139,Miguel Amaya,Chicago Cubs,CHC,0.5
+140,Brian Anderson,Milwaukee Brewers,MIL,0.5
+141,Grant Anderson,Texas Rangers,TEX,0.5
+142,Nick Anderson,Kansas City Royals,KC,0.5
+143,Chase Anderson,Pittsburgh Pirates,PIT,0.5
+144,Tim Anderson,Pittsburgh Pirates,PIT,0.5
+145,Clayton Andrews,,,0.5
+146,Elvis Andrus,New York Yankees,NYY,0.5
+147,Miguel Andujar,Oakland Athletics,OAK,0.5
+148,Tejay Antone,Cincinnati Reds,CIN,0.5
+149,Jonathan Aranda,Tampa Bay Rays,TB,0.5
+150,Jonathan Araúz,,,0.5
+151,OrLADdo Arcia,Los Angeles Dodgers,LAD,0.5
+152,Gabriel Arias,Cleveland Guardians,CLE,0.5
+153,Shawn Armstrong,Tampa Bay Rays,TB,0.5
+154,Randy Arozarena,Tampa Bay Rays,TB,0.5
+155,Luis Arraez,Miami Marlins,MIA,0.5
+156,Christian Arroyo,Boston Red Sox,BOS,0.5
+157,Graham Ashcraft,Cincinnati Reds,CIN,0.5
+158,Javier Assad,Chicago Cubs,CHC,0.5
+159,Pedro Avila,San Diego Padres,SD,0.5
+160,José Azocar,San Diego Padres,SD,0.5
